@@ -25,6 +25,7 @@
 		031A980A2C035403002472E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		031A980C2C035403002472E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		031A98122C035433002472E1 /* AppPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = AppPackage; sourceTree = "<group>"; };
+		035ADF2B2C0383010053402D /* Demonstration.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Demonstration.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		031A97F22C035402002472E1 = {
 			isa = PBXGroup;
 			children = (
+				035ADF2A2C0382E80053402D /* Demonstration */,
 				031A98122C035433002472E1 /* AppPackage */,
 				031A97FD2C035402002472E1 /* TBJPPosts */,
 				031A97FC2C035402002472E1 /* Products */,
@@ -69,6 +71,14 @@
 				031A980C2C035403002472E1 /* Info.plist */,
 			);
 			path = TBJPPosts;
+			sourceTree = "<group>";
+		};
+		035ADF2A2C0382E80053402D /* Demonstration */ = {
+			isa = PBXGroup;
+			children = (
+				035ADF2B2C0383010053402D /* Demonstration.mp4 */,
+			);
+			path = Demonstration;
 			sourceTree = "<group>";
 		};
 		037D59B02C036FB800C7436A /* Frameworks */ = {
