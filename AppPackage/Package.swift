@@ -3,12 +3,6 @@
 
 import PackageDescription
 
-extension Target.Dependency {
-//    static var fetchingView: Self {
-//        .product(name: "FetchingView", package: "FetchingView")
-//    }
-}
-
 let package = Package(
     name: "AppPackage",
     platforms: [.iOS(.v17)],
